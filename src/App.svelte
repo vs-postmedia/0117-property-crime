@@ -27,7 +27,7 @@
     <iframe src='https://flo.uri.sh/visualisation/{chartId02}/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:{chartHeight};' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 </div>
 
- <p class="note">NOTE: The survey of 260 businesses was conducted in November 2025 and is not representative. No margin of error can be calculated.</p>
+ <p class="note">NOTE: The survey of 260 businesses was conducted in November 2025. The results are non-representative. No margin of error can be calculated.</p>
 
 
 <footer>
